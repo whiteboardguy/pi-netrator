@@ -1,0 +1,3 @@
+# NOTE
+
+### This project is under **extremely heavy** construction and it'll be kind of ready by...
